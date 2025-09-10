@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Download PDF</title>
+</head>
+<body>
+  <h2>Download My PDF</h2>
+  <p>Click the button below to download your file:</p>
+
+  <!-- Direct download button -->
+  <a href="files/mydocument.pdf" download>
+    <button>Download PDF</button>
+  </a>
+</body>
+</html>
